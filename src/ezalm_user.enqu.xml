@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_ENQU" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD25V>
+    <VIEWNAME>EZALM_USER</VIEWNAME>
+    <AGGTYPE>E</AGGTYPE>
+    <ROOTTAB>ZALM_FS_USERS</ROOTTAB>
+   </DD25V>
+   <DD26E_TABLE>
+    <DD26E>
+     <VIEWNAME>EZALM_USER</VIEWNAME>
+     <TABNAME>ZALM_FS_USERS</TABNAME>
+     <TABPOS>0001</TABPOS>
+     <FORTABNAME>ZALM_FS_USERS</FORTABNAME>
+     <ENQMODE>E</ENQMODE>
+    </DD26E>
+   </DD26E_TABLE>
+   <DD27P_TABLE>
+    <DD27P>
+     <VIEWNAME>EZALM_USER</VIEWNAME>
+     <OBJPOS>0001</OBJPOS>
+     <VIEWFIELD>MANDT</VIEWFIELD>
+     <TABNAME>ZALM_FS_USERS</TABNAME>
+     <FIELDNAME>MANDT</FIELDNAME>
+     <KEYFLAG>X</KEYFLAG>
+     <ENQMODE>E</ENQMODE>
+    </DD27P>
+    <DD27P>
+     <VIEWNAME>EZALM_USER</VIEWNAME>
+     <OBJPOS>0002</OBJPOS>
+     <VIEWFIELD>ID</VIEWFIELD>
+     <TABNAME>ZALM_FS_USERS</TABNAME>
+     <FIELDNAME>ID</FIELDNAME>
+     <KEYFLAG>X</KEYFLAG>
+     <ENQMODE>E</ENQMODE>
+    </DD27P>
+   </DD27P_TABLE>
+  </asx:values>
+ </asx:abap>
+</abapGit>
