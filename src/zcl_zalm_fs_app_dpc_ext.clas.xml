@@ -15,30 +15,30 @@
     <item>
      <ID>I</ID>
      <KEY>001</KEY>
-     <ENTRY>Hello World</ENTRY>
+     <ENTRY>Hallo Welt</ENTRY>
      <LENGTH>20</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>002</KEY>
-     <ENTRY>Test text element 2</ENTRY>
+     <ENTRY>Test Text Element 2</ENTRY>
      <LENGTH>29</LENGTH>
     </item>
    </TPOOL>
    <I18N_TPOOL>
     <item>
-     <LANGUAGE>D</LANGUAGE>
+     <LANGUAGE>E</LANGUAGE>
      <TEXTPOOL>
       <item>
        <ID>I</ID>
        <KEY>001</KEY>
-       <ENTRY>Hallo Welt</ENTRY>
+       <ENTRY>Hello World</ENTRY>
        <LENGTH>20</LENGTH>
       </item>
       <item>
        <ID>I</ID>
        <KEY>002</KEY>
-       <ENTRY>Test Text Element 2</ENTRY>
+       <ENTRY>Test text element 2</ENTRY>
        <LENGTH>29</LENGTH>
       </item>
      </TEXTPOOL>

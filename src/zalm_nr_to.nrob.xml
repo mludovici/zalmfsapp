@@ -11,8 +11,10 @@
     <NONRSWAP>X</NONRSWAP>
    </ATTRIBUTES>
    <TEXT>
-    <LANGU>E</LANGU>
+    <LANGU>D</LANGU>
     <OBJECT>ZALM_NR_TO</OBJECT>
+    <TXT>Nummernkreis für Tabelle Todos</TXT>
+    <TXTSHORT>Nummernkreis Todos</TXTSHORT>
    </TEXT>
   </asx:values>
  </asx:abap>
